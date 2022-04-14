@@ -68,14 +68,14 @@ $(document).ready(function() {
 	
 	// sales countdown
 	$('.sales-countdown-first').countdown({
-		date: '09/17/2020 17:30:00'
+		date: '09/17/2023 17:30:00'
 		});
 
 	$('.sales-countdown-second').countdown({
-		date: '09/17/2020 17:30:00'
+		date: '09/17/2023 17:30:00'
 		});
 		
 	$('.sales-countdown-third').countdown({
-		date: '09/17/2020 17:30:00'
+		date: '09/17/2023 17:30:00'
 		});
 });
