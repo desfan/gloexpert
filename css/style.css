@@ -125,7 +125,7 @@ section {
   z-index: 1000;
 }
 #button::after {
-  content: "\f077";
+  content: "^";
   font-family: FontAwesome;
   font-weight: normal;
   font-style: normal;
