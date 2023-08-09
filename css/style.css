@@ -7,7 +7,7 @@ body {
 
 .center-v {
 	align-items: center;
-}
+} 
 
 a {
 	text-decoration: none;
@@ -130,7 +130,7 @@ section {
   font-weight: normal;
   font-style: normal;
   font-size: 2em;
-  line-height: 50px;
+  line-height: 59px;
   color: #fff;
 }
 #button:hover {
